@@ -1,0 +1,36 @@
+.nav-link
+{
+    color:white;
+    font-size: 25px;
+    margin-left: 130px;
+}
+.navbar-brand
+{
+    color:white;
+    font-size: 25px;
+
+}
+img
+{
+    border:5px solid gray;
+    width:500px;
+    height:500px;
+
+}
+.header
+{
+    display:flex;
+    
+}
+
+p
+{
+    border:5px solid gray;
+    width:600px;
+    height:500px;
+    padding-left: 10px;
+    font-weight: bold;
+    color:gray;
+    font-size: 25px;
+    border-radius:10px;
+}
